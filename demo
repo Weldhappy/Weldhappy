@@ -1,0 +1,37 @@
+import pyaudio
+import wegl
+
+# Initialize PyAudio
+p = pyaudio.PyAudio()
+
+# Open an input stream using PyAudio
+stream = p.open(
+    format=pyaudio.paInt16,
+    channels=1,
+    rate=44100,
+    input=True,
+    frames_per_buffer=1024
+)
+
+# Initialize Wegl
+w = wegl.Wegl(sampling_rate=44100)
+
+# Start the audio processing loop
+while True:
+    # Read audio data from the input stream
+    data = stream.read(1024)
+   
+    # Process the audio data using Wegl
+    w.process_audio(data)
+    
+    # Check if Wegl has detected any events
+    events = w.get_events()
+    if len(events) > 0:
+        print("Wegl has detected an event:", events[0])
+
+# Close the input stream
+stream.stop_stream()
+stream.close()
+
+# Terminate PyAudio
+p.terminate()
