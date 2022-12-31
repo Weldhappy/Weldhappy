@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate
-- 📫 info@weldhappy.com
+- 📫 http://weld.cdi-spec.org/community
 
 <!---
 Weldhappy/Weldhappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
