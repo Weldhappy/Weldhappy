@@ -11,7 +11,7 @@ Weldhappy/Weldhappy is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 FAQ
-What is this project? (Save memory drivers)📐
+What is this project? (Save memory drivers)📐 # Pip `DragonFlightVis`
 This project is a platform for building and deploying decentralized applications (DApps) on the Ethereum blockchain using Weld.
 
 How do I get started with Weld?
