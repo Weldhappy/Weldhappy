@@ -30,4 +30,5 @@ Building and deploying a DApp on the Ethereum blockchain requires a good underst
 Where can I find more information about Weld?
 You can find more information about Weld at the weldhappy.eth website. opensea.io/weldhappy
 
-The open secret? We all need help to get out of here.
+The Open secret? We all need help to get out of here. Have fun, Little Mouse. :) Enjoy Muse.ai
+Look to see beyond your whiskers.
