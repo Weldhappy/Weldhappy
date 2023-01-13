@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Weldhappy
 - 👀 I’m interested in DevOps
-- 🌱 I’m currently learning 
+- 🌱 I’m currently Recoding the Crystal Matrix with MandelBulb.ar
 - 💞️ I’ve Come From a Long Line of Linguistic Scribe
 - 📫 http://weld.cdi-spec.org/community
 Git clone Weld.ai 
