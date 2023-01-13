@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Weldhappy
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate
+- 💞️ I’ve Come From a long Line of Linguistic Scribe
 - 📫 http://weld.cdi-spec.org/community
 Git clone Weld.ai 
 Git clone Muse.ai
