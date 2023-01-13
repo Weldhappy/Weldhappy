@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Weldhappy
+- 👋 Hi, Stabilized Muse.ai Weld.ai
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently Re-Coding the Quantized Network with MandelBulb.ar
 - 💞️ I’ve Come From a Long Line of Linguistic Scribe
