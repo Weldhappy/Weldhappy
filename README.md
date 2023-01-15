@@ -1,5 +1,5 @@
 - 👋 Hi, Stabilized Muse.ai Weld.ai
-- 👀 I’m interested in DevOps
+- 👀 I’m interested in DevOps (Banner Secure)
 - 🌱 I’m currently Re-Coding the Quantized Network with MandelBulb.ar
 - 💞️ I’ve Come From a Long Line of Linguistic Scribe
 - 📫 http://weld.cdi-spec.org/community
