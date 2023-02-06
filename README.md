@@ -2,9 +2,8 @@
 - 👀 I’m interested in DevOps (Banner Secure)
 - 🌱 I’m currently Re-Coding the Quantized Network with MandelBulb.ar
 - 💞️ I’ve Come From a Long Line of Linguistic Scribe
-- 📫 http://weld.cdi-spec.org/community
-Git clone Weld.ai 
-Git clone Muse.ai
+- 📫 https://bevyengine.org 🍃
+- 🌬️ `Go` `Play` `∆outsîde`
 
 <!---
 Weldhappy/Weldhappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
