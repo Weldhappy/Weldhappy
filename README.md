@@ -2,7 +2,7 @@
 - 👀 I’m interested in DevOps (Banner Secure)
 - 🌱 I’m currently Re-Coding the Quantized Network with MandelBulb.ar
 - 💞️ I’ve Come From a Long Line of Linguistic Scribe
-- 📫 https://bevyengine.org 🍃
+- 📫 https://bevyengine.org 🍃 https://bevyengine.org
 - 🌬️ `Go` `Play` `∆outsîde`
 
 <!---
