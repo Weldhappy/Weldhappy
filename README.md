@@ -4,6 +4,7 @@
 - 💞️ I’ve Come From a Long Line of Linguistic Scribe
 - 📫 https://bevyengine.org 🍃
 - ❤️‍🔥 https://fyrox.rs 
+- 🪃 `github.blog`
 - 🌬️ `Go` `Play` `∆outsîde`
 
 <!---
