@@ -6,6 +6,7 @@
 - 🦊 https://fyrox.rs 
 - ❤️‍🔥 https://flame-engine.org
 - 🪃 https://github.blog
+- 🐝 https://OpenSea.io/weldhappy
 - 🌬️ `Go` `Play` `∆outsîde` 
 
 <!---
