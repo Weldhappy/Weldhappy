@@ -3,7 +3,7 @@
 - 🌱 I’m currently Re-Coding the Quantized Network with MandelBulb.ar
 - 💞️ I’ve Come From a Long Line of Linguistic Scribe
 - 📫 https://bevyengine.org 🍃
-- 🔥 https://fyrox.rs 
+- ❤️‍🔥 https://fyrox.rs 
 - 🌬️ `Go` `Play` `∆outsîde`
 
 <!---
