@@ -8,6 +8,7 @@
 - 🪃 https://github.blog
 - 🐝 https://OpenSea.io/weldhappy
 - 🌬️ `Go` `Play` `∆outsîde` 
+- 🧜‍♂️ https://jellyfin.org
 
 <!---
 Weldhappy/Weldhappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
