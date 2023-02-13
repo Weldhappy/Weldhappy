@@ -32,7 +32,7 @@ What do I need to know to use Weld effectively?
 Building and deploying a DApp on the Ethereum blockchain requires a good understanding of blockchain concepts and programming principles. If you are not familiar with these technologies, it may be challenging to use Weld effectively.
 
 Where can I find more information about Weld?
-You can find more information about Weld at the weldhappy.eth website. opensea.io/weldhappy
+You can find more information at 🛢️https://diesel.rs
 
 The Open secret? We all need help to get out of here. Have fun, Little Mouse. :) Enjoy Muse.ai
 Look to see beyond your whiskers.
