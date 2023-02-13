@@ -35,4 +35,4 @@ Where can I find more information about Weld?
 You can find more information at 🛢️https://diesel.rs
 
 The Open secret? We all need help to get out of here. Have fun, Little Mouse. :) Enjoy [Muse]
-Look to see beyond your whiskers.
+Look to see beyond your whiskers. foundation.rust-lang.org
