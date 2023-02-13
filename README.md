@@ -10,6 +10,7 @@
 - 🌬️ `Go` `Play` `∆outsîde` 
 - 🧜‍♂️ https://jellyfin.org
 - 🎁 https://crates.io
+- 🐾 https://artifacthub.io
 <!---
 Weldhappy/Weldhappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -35,4 +36,4 @@ Where can I find more information about Weld?
 You can find more information at 🛢️https://diesel.rs
 
 The Open secret? We all need help to get out of here. Have fun, Little Mouse. :) Enjoy [Muse]
-Look to see beyond your whiskers. ⚙️ Https://foundation.rust-lang.org
+Look to see beyond your whiskers. ⚙️ https://foundation.rust-lang.org
