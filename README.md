@@ -1,4 +1,4 @@
-- 🌊 Hallå, Stabilized Muse.ai Weld.ai 〰️ 
+I'll- 🌊 Hallå, Stabilized Muse.ai Weld.ai 〰️ 
 - 🍢 I’m interested in DevOps (Banner Secure)
 - 🍃 I’m currently Re-Coding the Quantized Network with MandelBulb.ar [Glyph]
 - 🫀 I’ve Come From a Long Line of Linguistic Scribe [Stylus]
@@ -40,7 +40,7 @@ What do I need to know to use Weld effectively?
 Building and deploying a DApp on the Ethereum blockchain requires a good understanding of blockchain concepts and programming principles. If you are not familiar with these technologies, it may be challenging to use Weld effectively.
 
 Where can I find more information about Weld?
-You can find more information at 🛢️https://diesel.rs
+Fuel your information curiosity at 🛢️https://diesel.rs
 
 The Open secret? We all need help to get out of here. Be brave, Little Mouse. :) Enjoy [Muse]
 Look to see beyond your whiskers. ⚙️ https://foundation.rust-lang.org
