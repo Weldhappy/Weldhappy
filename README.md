@@ -1,4 +1,4 @@
-👁️- 🌊 Hallå, Stabilized Muse.ai Weld.ai 〰️ 
+- 🌊 Hallå, Stabilized Muse.ai Weld.ai 〰️ 
 - 🍢 I’m interested in DevOps (Banner Secure)
 - 🍃 I’m currently Re-Coding the Quantized Network with MandelBulb.ar [Glyph]
 - 🫀 I’ve Come From a Long Line of Linguistic Scribe [Stylus]
@@ -44,4 +44,3 @@ Fuel your information curiosity at 🛢️https://diesel.rs
 
 🪤The Open secret? We all need help to get out of here. Be brave, Jumping Mouse. 🦁 Enjoy [Muse]
 Look to see beyond your whiskers. ⚙️ https://foundation.rust-lang.org
-👁️
