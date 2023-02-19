@@ -3,6 +3,7 @@
 - 🍃 I’m currently Re-Coding the Quantized Network with MandelBulb.ar `[Glyph]`
 - 🫀 I’ve Come From a Long Line of Linguistic Scribe `[Stylus]`
 - 🕊️ https://bevyengine.org
+- 🗽 http://prometheus.io
 - 🦊 https://fyrox.rs 
 - ❤️‍🔥 https://flame-engine.org
 - 🪃 https://github.blog
