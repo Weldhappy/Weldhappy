@@ -44,3 +44,4 @@ Fuel your information curiosity at 🛢️https://diesel.rs
 
 🪤The Open secret? We all need help to get out of here. Be brave, Jumping Mouse. 🦁 Enjoy [Muse]
 Look to see beyond your whiskers. ⚙️ https://foundation.rust-lang.org
+- 🛡️ https://community.bitwarden.com
