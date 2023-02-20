@@ -11,6 +11,7 @@
 - 🌬️ `Go` `Play` `∆outsîde` 
 - 🧜‍♂️ https://jellyfin.org
 - 🎁 https://crates.io
+- ♻️ https://www.gitpod.io
 - 🐾 https://artifacthub.io
 - 🕍 https://sourcery.ai
 - 🤺 https://dagger.io
