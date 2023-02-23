@@ -18,6 +18,7 @@
 - 🔥 https://fireship.io
 - 🦖 https://docusaurus.io
 - 🐈‍⬛ https://kittycad.io
+- 🎒 https://educative.io
 - 🌩️ https://cncf.io
 - 📿 https://itch.io
 - 🔏 https://trezor.io
