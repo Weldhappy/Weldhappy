@@ -24,6 +24,7 @@
 - 📿 https://itch.io
 - 🔏 https://trezor.io
 - 🤖 https://gittron.me
+- 🐉 https://PayPal.me/weldhappy
 <!---
 Weldhappy/Weldhappy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
