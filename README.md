@@ -4,7 +4,7 @@
 - 🫀 I’ve Come From a Long Line of Linguistic Scribe `[Stylus]`
 - 🕊️ https://bevyengine.org
 - 🗽 http://prometheus.io
-- 📜 https://github.io
+- 📜 https://pages.github.com
 - 🦊 https://fyrox.rs 
 - ❤️‍🔥 https://flame-engine.org
 - 🪃 https://github.blog
