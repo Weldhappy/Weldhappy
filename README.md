@@ -19,6 +19,7 @@
 - 🐾 https://KubeShop.io
 - 🕍 https://sourcery.ai
 - 🤺 https://dagger.io
+- 🌲 https://forestry.io
 - 🔥 https://fireship.io
 - 🦖 https://docusaurus.io
 - 🐈‍⬛ https://kittycad.io
