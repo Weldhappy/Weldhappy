@@ -16,7 +16,7 @@
 - 🧜‍♂️ https://jellyfin.org
 - 🎁 https://crates.io
 - ♻️ https://www.gitpod.io
-- 🐾 https://artifacthub.io
+- 🐾 https://KubeShop.io
 - 🕍 https://sourcery.ai
 - 🤺 https://dagger.io
 - 🔥 https://fireship.io
