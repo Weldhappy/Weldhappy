@@ -8,6 +8,7 @@
 - 🦊 https://fyrox.rs 
 - ❤️‍🔥 https://flame-engine.org
 - 🪃 https://github.blog
+- 🐁 https://choosemuse.com
 - 💸 https://admin.daohaus.fun
 - 🐉 https://PayPal.me/weldhappy
 - 🐝 https://OpenSea.io/weldhappy
