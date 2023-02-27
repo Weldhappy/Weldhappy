@@ -10,6 +10,7 @@
 - 📜 https://pages.github.com
 - 🦊 https://fyrox.rs 
 - 🪃 https://github.blog
+- 🐂 https://LongHorn.io
 - 🔭 https://OpenTelemetry.io
 - 🐁 https://choosemuse.com
 - 💸 https://admin.daohaus.fun
