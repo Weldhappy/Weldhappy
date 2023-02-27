@@ -11,6 +11,7 @@
 - ❤️‍🔥 https://flame-engine.org
 - 🪃 https://github.blog
 - 🐁 https://choosemuse.com
+- 🔭 https://OpenTelemetry.io
 - 💸 https://admin.daohaus.fun
 - 🐉 https://PayPal.me/weldhappy
 - 🐝 https://OpenSea.io/weldhappy
