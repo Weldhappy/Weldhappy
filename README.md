@@ -10,8 +10,8 @@
 - 📜 https://pages.github.com
 - 🦊 https://fyrox.rs 
 - 🪃 https://github.blog
-- 🐁 https://choosemuse.com
 - 🔭 https://OpenTelemetry.io
+- 🐁 https://choosemuse.com
 - 💸 https://admin.daohaus.fun
 - 🐉 https://PayPal.me/weldhappy
 - 🐝 https://OpenSea.io/weldhappy
