@@ -51,7 +51,7 @@ To get started with Weld, you will need to have a basic understanding of the Eth
 Once you have a basic understanding of these concepts, you can use Weld to build your DApp by creating and modifying Solidity smart contracts and interacting with the Ethereum blockchain using Weld's API.
 
 How do I deploy my DApp using Weld?
-To deploy your DApp using Weld, you will need to connect to an Ethereum node and send a transaction that includes your compiled Solidity code. This will store your code on the blockchain and make it available for execution by anyone who has the proper permissions.
+To deploy your DApp using Weld, you will need to connect an Ethereum node and send a transaction that includes your compiled Solidity code. This will store your code on the blockchain and make it available for execution by anyone who has the proper permissions.
 
 You can use Weld to deploy your DApp to the Ethereum mainnet or a test network, and to manage and monitor your DApp's performance.
 
