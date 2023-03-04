@@ -58,7 +58,6 @@ You can use Weld to deploy your DApp to the Ethereum mainnet or a test network, 
 What do I need to know to use Weld effectively?
 Building and deploying a DApp on the Ethereum blockchain requires a good understanding of blockchain concepts and programming principles. If you are not familiar with these technologies, it may be challenging to use Weld effectively.
 
-- 🛢️https://diesel.rs
 - 🎡 https://corrosion-rs.github.io/corrosion/quick_start.html
 
 🪤The Open secret? We all need help to get out of here. Be brave, Jumping Mouse. 🦁 Enjoy [Muse]
