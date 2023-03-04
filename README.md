@@ -43,7 +43,7 @@ You can click the Preview link to take a look at your changes.
 --->
 FAQ
 What is this project? (Save GitCore Memory Drivers)📐 # Pip `DragonFlightVis`
-This project is a platform for building and deploying decentralized applications (DApps) on the Ethereum blockchain using Weld.
+This project is a platform for building and deploying decentralized applications (DApps) on the Gnosis blockchain using Weld.
 
 How do I get started with Weld?
 To get started with Weld, you will need to have a basic understanding of the Ethereum blockchain and how it works. This will involve learning about concepts like smart contracts, transactions, and Ethereum's native programming language, Solidity.
