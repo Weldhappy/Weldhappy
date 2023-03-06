@@ -5,6 +5,7 @@
 - 🧑‍🏭 https://weld.ai
 - 🐭 https://muse.ai
 - 🕊️ https://wgpu.rs
+- 💮 https://Svelvet.io
 - 🗽 https://prometheus.io
 - ❤️‍🔥 https://flame-engine.org
 - 📜 https://Docs.rs
@@ -23,7 +24,7 @@
 - 🐾 https://KubeShop.io
 - 🕍 https://sourcery.ai
 - 🤺 https://dagger.io
-- 🦙 https://Tina.io
+- 🦙 https://tina.io
 - 🔥 https://fireship.io
 - 🦖 https://docusaurus.io
 - 🐈‍⬛ https://kittycad.io
