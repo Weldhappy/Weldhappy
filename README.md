@@ -5,7 +5,7 @@
 - 🧑‍🏭 https://weld.ai
 - 🐭 https://muse.ai
 - 🕊️ https://wgpu.rs
-- 💮 https://Svelvet.io
+- 💮 https://rss3.io
 - 🗽 https://prometheus.io
 - ❤️‍🔥 https://flame-engine.org
 - 📜 https://Docs.rs
