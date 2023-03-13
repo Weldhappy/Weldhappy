@@ -1,7 +1,7 @@
 - 🌊 Hallå, Stablized `Reality` for the Fay 〰️ 
 - 🍢 I’m interested in DevOps (Banner Secure)
 - 🍃 I’m currently Re-Coding the Quantized Network with MandelBulb.ar `[Glyph]`
-- 🫀 `[Stylus]` Linguistic scribe talk about your life organizing reality.
+- 🫀 `[Stylus]` Linguistic Scribe, talk about your life organizing reality.
 - 🧑‍🏭 https://weld.ai
 - 🐭 https://muse.ai
 - 🕊️ https://wgpu.rs
